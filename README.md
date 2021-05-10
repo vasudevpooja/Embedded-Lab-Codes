@@ -4,8 +4,11 @@ Embedded C programs for ARM Cortex M31 using Keil Software.
 1) Blink LED connected at P1.28 continuously;
 
 2) Using array of LEDs –Display:
+
 a)Hexadecimal;
+
 b)Ring;  
+
 c)Twisted Ring counter
 
 3)Read the Status of Switch connected at P0.27. If switch is HIGH turn on the Relay and else of the relay connected at P0.22;
