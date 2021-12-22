@@ -1,5 +1,5 @@
 # Embedded C programs for ARM Cortex M31 using Keil Software.
-The ARM Cortex-M3 is a Cortex-M3 based Microcontroller.
+The ARM Cortex-M3 is a Cortex-M3 based Microcontroller. 
 
 # Programs:
 1) [Blink LED connected at P1.28 continuously](https://github.com/vasudevpooja/Embedded-Lab-Codes/blob/main/Blink%20LED/blink.c)
